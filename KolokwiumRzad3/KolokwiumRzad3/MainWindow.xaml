@@ -1,0 +1,30 @@
+﻿<Window x:Class="KolokwiumRzad3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="626" Width="989.5">
+    <Grid Background="#FFC9CCCD">
+        <Button Content="Nowa Pizza" HorizontalAlignment="Left" Height="32" Margin="65,64,0,0" VerticalAlignment="Top" Width="127" Click="NowaPizzaButton"/>
+        <Button x:Name="DodajSkladniki" Content="Dodaj Składniki" HorizontalAlignment="Left" Margin="65,150,0,0" VerticalAlignment="Top" Width="127" Click="DodajSkladnikiButton" Height="29"/>
+        <Button x:Name="Dostawa" Content="Dostawa" HorizontalAlignment="Left" Height="27" Margin="65,235,0,0" VerticalAlignment="Top" Width="127" Click="DostawaButton"/>
+        <Button Content="Wyjście" HorizontalAlignment="Left" Height="26" Margin="65,502,0,0" VerticalAlignment="Top" Width="127" Click="WyjscieButton"/>
+        <TextBox x:Name="NazwaPizzyTekst" HorizontalAlignment="Left" Height="27" Margin="767,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="NazwaSkladnikaTekst" HorizontalAlignment="Left" Height="28" Margin="767,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="CenaTekst" HorizontalAlignment="Left" Height="26" Margin="767,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="SosTekst" HorizontalAlignment="Left" Height="26" Margin="767,288,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="GodzinaTekst" HorizontalAlignment="Left" Height="27" Margin="767,461,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBlock x:Name="NazwaPizzyTekstBlock" HorizontalAlignment="Left" Height="27" Margin="652,69,0,0" TextWrapping="Wrap" Text="Nazwa pizzy:" VerticalAlignment="Top" Width="110"/>
+        <TextBlock x:Name="NazwaSkladnikaTekstBlock" HorizontalAlignment="Left" Height="27" Margin="652,156,0,0" TextWrapping="Wrap" Text="Nazwa składnika:" VerticalAlignment="Top" Width="110"/>
+        <TextBlock x:Name="CenaTekstBlock" HorizontalAlignment="Left" Height="27" Margin="652,185,0,0" TextWrapping="Wrap" Text="Cena:" VerticalAlignment="Top" Width="110"/>
+        <TextBlock x:Name="SosTekstBlock" HorizontalAlignment="Left" Height="27" Margin="652,288,0,0" TextWrapping="Wrap" Text="Sos:" VerticalAlignment="Top" Width="110"/>
+        <TextBlock x:Name="GodzinaTekstBlock" HorizontalAlignment="Left" Height="27" Margin="652,461,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="110"><Run Text="Godzina"/><Run Text=" (hh:mm)"/><Run Text=":"/></TextBlock>
+        <Button x:Name="DodajPizze" Content="Dodaj Pizzę" HorizontalAlignment="Left" Height="29" Margin="767,101,0,0" VerticalAlignment="Top" Width="144" Click="DodajPizzeButton"/>
+        <Button x:Name="UstawSos" Content="Ustaw Sos" HorizontalAlignment="Left" Height="31" Margin="767,319,0,0" VerticalAlignment="Top" Width="144" Click="UstawSosButton"/>
+        <Button x:Name="DodajSkladnik" Content="Dodaj Składnik" HorizontalAlignment="Left" Height="34" Margin="767,216,0,0" VerticalAlignment="Top" Width="144" Click="DodajSkladnikButton"/>
+        <TextBlock x:Name="ZamowieniaTekstBlock" HorizontalAlignment="Left" Height="419" Margin="227,69,0,0" TextWrapping="Wrap" Text="Zamówienia" VerticalAlignment="Top" Width="259"/>
+        <Button x:Name="NaWynos" Content="Na Wynos" HorizontalAlignment="Left" Margin="767,428,0,0" VerticalAlignment="Top" Width="144" Height="28" Click="NaWynosButton"/>
+        <Button x:Name="NaMiejscu" Content="Na Miejscu" HorizontalAlignment="Left" Margin="767,395,0,0" VerticalAlignment="Top" Width="144" Height="28" Click="NaMiejscuButton"/>
+        <Button x:Name="Sprawdz" Content="Sprawdź" HorizontalAlignment="Left" Margin="767,502,0,0" VerticalAlignment="Top" Width="144" Click="SprawdzButton" Height="26"/>
+        <TextBlock x:Name="Info" HorizontalAlignment="Left" Margin="508,319,0,210" TextWrapping="Wrap" Text="" Width="120"/>
+
+    </Grid>
+</Window>

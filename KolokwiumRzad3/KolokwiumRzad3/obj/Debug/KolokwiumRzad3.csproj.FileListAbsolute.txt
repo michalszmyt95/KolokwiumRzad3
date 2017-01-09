@@ -1,0 +1,13 @@
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\bin\Debug\KolokwiumRzad3.exe.config
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\obj\Debug\KolokwiumRzad3.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\obj\Debug\App.g.cs
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\obj\Debug\KolokwiumRzad3_MarkupCompile.cache
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\obj\Debug\KolokwiumRzad3.g.resources
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\obj\Debug\KolokwiumRzad3.Properties.Resources.resources
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\obj\Debug\KolokwiumRzad3.csproj.GenerateResource.Cache
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\bin\Debug\KolokwiumRzad3.exe
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\bin\Debug\KolokwiumRzad3.pdb
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\obj\Debug\KolokwiumRzad3.exe
+C:\Users\local\Desktop\KoloMichalSzmyt\KolokwiumRzad3\KolokwiumRzad3\obj\Debug\KolokwiumRzad3.pdb
